@@ -1,16 +1,15 @@
 #box{
-	box-shadow: 0px 0px 2px -0.2px gray;
+	border: 1px solid #80808047;
     border-radius: 3px;
-	display: flex;
-    padding: 22px;
-    flex-direction: column;
-    gap: 25px;
+    margin: 9px;
+    padding: 25px;
 }
 .row{
-	background-color:#ede8e8;
-	border-radius:6px;
-	height:24px;
-	width:100%;
+	background-color: #ede8e8;
+    border-radius: 6px;
+    height: 24px;
+    margin-top: 12px;
+    width: 100%;
 }
 .color1{
 	background-color:#1d721d;
